@@ -147,8 +147,7 @@ a {
 		<div class="meta">
 			<span>All About Clothes
 		</div>
-		<p>AAC는 All About Clothes의 줄임말로서 2022년 5월 16일부터 2022년 5월 27일(진우
-			생일ㅎ)까지 진행된 온라인 쇼핑몰 프로젝트입니다.</p>
+		<p>AAC는 All About Clothes의 줄임말로서 2022년 5월 16일부터 2022년 5월 27일까지 진행된 온라인 쇼핑몰 프로젝트입니다.</p>
 		<p class="text-center">
 			<img src="images/prototype.jpg" alt="prototype">
 		</p>

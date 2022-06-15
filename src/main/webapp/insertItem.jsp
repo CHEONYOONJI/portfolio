@@ -166,7 +166,7 @@ a {
 						<tr>
 							<td>Price</td>
 							<td>
-								<input name="itemPrice" id="itemPrice">
+								<input type= number name="itemPrice" id="itemPrice">
 							</td>
 						</tr>
 						<tr>
